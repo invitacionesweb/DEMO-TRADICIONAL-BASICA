@@ -50,6 +50,9 @@ header {
         opacity: 1;
     }
 }
+.novios .phone { 
+    display: none;
+}
 
 .contador {
     display: flex;
@@ -285,6 +288,11 @@ footer img {
     header {
         background-image: url(./img-editables/phone.png);
     }
+
+    .novios .desk { 
+    display: none;
+    }
+
     .ubicacion {
         flex-direction: column;
     }
